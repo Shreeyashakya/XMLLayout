@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 switch (checkedId){
                     case R.id.rdAmazing:
-                        tipPercentage= 0.20;
+                        tipPercentage= 0.200;
                         break;
                     case R.id.rdGood:
                         tipPercentage= 0.18;
